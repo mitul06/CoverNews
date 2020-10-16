@@ -1,0 +1,28 @@
+.lead {
+    font-size: 1.30rem;
+    font-weight: 300;
+    font-style: oblique;
+}
+
+body{
+    background: url(../img/news-1172463_1280.jpg) fixed;
+}
+
+#h3{
+    background: url(../img/black-932213_1280.jpg) fixed;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+}
+
+span{
+    border: 2px solid white;
+}
+
+.jumbotron{
+    border-radius: 1rem;
+    border: 2px solid white;
+    background-color: #ffd3d3;
+}
